@@ -1,7 +1,7 @@
 // Task 1: Addition
 int addTwo(int num1, int num2) {
   return num1 + num2;
-  print(2 , 2)
+  
 }
 
 // Task 2: Subtraction
